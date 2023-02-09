@@ -4,5 +4,28 @@ body {
 }
 
 a {
-  color: #00B7FF;
+  color: #ff0000;
+}
+
+a:-webkit-any-link {
+  color: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+h1.title {
+  display: flex;
+  justify-content: center;
+  color: #ff0000;
+}
+
+.top-header {
+  display: flex;
+  flex-direction: column;
+}
+
+ul.enlaces {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }

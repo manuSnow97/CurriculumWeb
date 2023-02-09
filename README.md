@@ -1,4 +1,4 @@
-Curriculum Personal:
+Curriculum Personal: (EN PROCESO)
 
 Nombre: Manuel
 Apellido: Nieva Orellano
